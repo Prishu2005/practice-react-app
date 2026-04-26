@@ -1,4 +1,4 @@
-# Rose Day Website 🌹❤️
+
 
 A beautiful and interactive Rose Day website to wish your loved one with animated hearts, roses, and a special message.
 
@@ -12,4 +12,4 @@ A beautiful and interactive Rose Day website to wish your loved one with animate
 ## Deploy
 This site is ready to deploy on Netlify, Vercel, or any static hosting platform.
 
-## Made with Love ❤️
+
